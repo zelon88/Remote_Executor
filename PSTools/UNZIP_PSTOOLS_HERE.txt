@@ -1,0 +1,11 @@
+This folder is for PSTools by Microsoft/Sysinternals.
+
+PSTools can be downloaded here.....
+https://docs.microsoft.com/en-us/sysinternals/downloads/pstools
+
+
+
+
+Due to the EULA of PSTools I am unable to redistribute the binaries. 
+
+You must obtain your own copy of PSTools.
