@@ -17,7 +17,7 @@ DESCRIPTION:
 A simple script for executing command prompt commands on domain workstations remotely.
 
 PURPOSE: 
-To give administrators the ability to manade endpoints they cannot physically reach.
+To give administrators the ability to manage endpoints they cannot physically reach.
 
 INSTALLATION INSTRUCTIONS: 
 1. Install PSTools binaries into the PSTools folder. Download PSTools: https://docs.microsoft.com/en-us/sysinternals/downloads/pstools
